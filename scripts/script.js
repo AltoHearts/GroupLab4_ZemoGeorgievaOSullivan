@@ -14,5 +14,5 @@ function displayParis()
 	
 function displayIao() 
 {
-  document.getElementById("articleID").innerHTML = "<h1>Iao Valley, Hawaii</h1><img src=\"iao-needle-stream.jpg\" width=\"400px\"><p>Iao Valley is a lush, stream-cut valley in West Maui, Hawaii, located 3.1 miles west of Wailuku. Because of its natural environment and history, it has become a tourist location. It was designated a National Natural Landmark in 1972.</p>"
+  document.getElementById("articleID").innerHTML = "<h1>Iao Valley, Hawaii</h1><p>Iao Valley is a lush, stream-cut valley in West Maui, Hawaii, located 3.1 miles west of Wailuku. Because of its natural environment and history, it has become a tourist location. <img src=\"iao-needle-stream.jpg\" width=\"300px\"> It was designated a National Natural Landmark in 1972."
 }
