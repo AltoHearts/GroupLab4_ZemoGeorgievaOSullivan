@@ -1,6 +1,6 @@
 document.getElementById("LondonListID").addEventListener("click",displayLondon);
 document.getElementById("MaldivesListID").addEventListener("click", MaldivesParis);
-document.getElementById("IaoListID").addEventListener("click", displayIao);
+document.getElementById("IaoListID").addEventListener("click",displayIao);
 
 function displayLondon() 
 {
