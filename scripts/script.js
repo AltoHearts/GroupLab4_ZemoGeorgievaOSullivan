@@ -9,7 +9,7 @@ function displayLondon()
 			
 function displayMaldives() 
 {
-  document.getElementById("articleID").innerHTML = "<h1>Maldives</h1><img src=\"maldives.jpeg\" width=\"300px\"><p>Maldives is a country in South Asia offically called the Republic of Maldives. Maldives is a archipelagic island located in the Arabian Sea of the Indian Ocean. Maldives is about 700 meters from Asia Mainland. Maldives is known as a beautiful island resort but may disapear in the forseable future due to the sea level rise.</p>"
+  document.getElementById("articleID").innerHTML = "<h1>Maldives</h1><img src=\"maldives.jpeg\" width=\"300px\"><p>Maldives is a country in South Asia offically called the Republic of Maldives. Maldives is a archipelagic island located in the Arabian Sea of the Indian Ocean. Maldives is about 700 meters from Asia Mainland. Maldives is known as a beautiful island resort but may disapear in the forseable future due to the sea level rise.</p><div class=\"clearfix\"><div class=\"img-container\"> <img src=\"maldives2.jpg\" alt=\"Maldives Capital Male\" style=\"width:100%\"> </div><div class=\"img-container\"> <img src=\"maldives3.jpg\" alt=\"Maldives Dock\" style=\"width:100%\"></div>"
 }
 	
 function displayIao() 
