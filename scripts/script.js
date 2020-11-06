@@ -1,5 +1,5 @@
 document.getElementById("LondonListID").addEventListener("click",displayLondon);
-document.getElementById("ParisListID").addEventListener("click", displayParis);
+document.getElementById("MaldivesListID").addEventListener("click", MaldivesParis);
 document.getElementById("IaoListID").addEventListener("click", displayIao);
 
 function displayLondon() 
@@ -9,7 +9,7 @@ function displayLondon()
 			
 function displayParis() 
 {
-  document.getElementById("articleID").innerHTML = "<h1>Paris</h1><p>Paris is great</p>"
+  document.getElementById("articleID").innerHTML = "<h1>Paris</h1><p>Maldives</p>"
 }
 	
 function displayIao() 
