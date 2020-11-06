@@ -9,7 +9,7 @@ function displayLondon()
 			
 function displayMaldives() 
 {
-  document.getElementById("articleID").innerHTML = "<h1>Maldives</h1><p>Maldives</p>"
+  document.getElementById("articleID").innerHTML = "<h1>Maldives</h1><p>Maldives is a country in South Asia offically called the Republic of Maldives. Maldives is a archipelagic island located in the Arabian Sea of the Indian Ocean. Maldives is about 700 meters from Asia Mainland. Maldives is known as a beautiful island resort but may disapear in the forseable future due to the sea level rise.</p>"
 }
 	
 function displayIao() 
