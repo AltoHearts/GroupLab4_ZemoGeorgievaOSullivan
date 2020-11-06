@@ -1,5 +1,5 @@
 document.getElementById("LondonListID").addEventListener("click",displayLondon);
-document.getElementById("MaldivesListID").addEventListener("click", MaldivesParis);
+document.getElementById("MaldivesListID").addEventListener("click", displayMaldives);
 document.getElementById("IaoListID").addEventListener("click",displayIao);
 
 function displayLondon() 
