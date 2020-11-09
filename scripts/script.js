@@ -1,4 +1,4 @@
-document.getElementById("LondonListID").addEventListener("click",displayLondon);
+document.getElementById("GreeceListID").addEventListener("click",displayLondon);
 document.getElementById("MaldivesListID").addEventListener("click", displayMaldives);
 document.getElementById("IaoListID").addEventListener("click",displayIao);
 
