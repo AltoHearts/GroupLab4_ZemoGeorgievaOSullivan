@@ -2,7 +2,7 @@ document.getElementById("GreeceListID").addEventListener("click",displayLondon);
 document.getElementById("MaldivesListID").addEventListener("click", displayMaldives);
 document.getElementById("IaoListID").addEventListener("click",displayIao);
 
-function displayLondon() 
+function displayGreece() 
 {
   document.getElementById("articleID").innerHTML = "<h1>Zakynthos, Greece</h1><img src=\"greece.jpg\" width=\"300px\"><p>Zakynthos is a Greek island in the Ionian Sea and a well-known summer resort. The harbor city of Zakynthos is the capital and major hub, centered around waterfront Solomos Square. Popular beaches like Agios Nikolaos, Alykanas and Tsilivi offer swimming and water sports. Accessed by boat, Navagio beach is the site of a famed 1980 shipwreck resting in a sandy cove framed by cliffs.</p>"
 }
